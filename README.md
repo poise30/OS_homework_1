@@ -1,6 +1,9 @@
 # OS_homework_1
 OS_homework_1
 
+![alt tag](https://github.com/poise30/OS_homework_1/blob/master/hw1.PNG)
+
+
 + 현재디렉토리\bob.txt 파일을 생성
 + 영문자/한글 조합으로 utf-8 인코딩 저장
 + 현재디렉토리\bob2.txt 복사
@@ -8,3 +11,4 @@ OS_homework_1
 ---- ReadFile() api 를 통해서 파일 읽기
 ---- Memory Mapped I/O 를 이용해서 파일 읽기
 + 현재디렉토리\bob.txt, 현재디렉토리\bob2.txt 삭제
++ 
